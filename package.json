@@ -1,0 +1,23 @@
+
+{                                                                                
+  "name": "be.eloistree.immoshielddroneserverstartpack",                              
+  "displayName": "Immo Shield Drone Server Start Pack",                        
+  "version": "0.0.1",                         
+  "unity": "2018.1",                             
+  "unityRelease": "",                             
+  "description": "Start Pack to load the pacakge of the Shield Drone IMMO server.",                         
+  "keywords": ["Script","Tool"],                       
+  "dependencies":{},     
+  "relatedPackages":{},     
+  "samples" : [],     
+  "author" : {
+"name":"",
+"mail":"",
+"url":""},     
+  "repository":{
+"type":"Git",
+"url":"https://github.com/EloiStree/2024_04_16_IMMO_ShieldDroneServerStartPack.git",
+"footprint":"",
+"revision":""},     
+  "category": "Script"                   
+} 
